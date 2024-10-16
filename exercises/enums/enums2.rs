@@ -1,7 +1,7 @@
 // enums2.rs
 //
 // Execute `rustlings hint enums2` or use the `hint` watch subcommand for a
-// hint.
+// hint.ttttttttttt
 #[derive(Debug)]  
 enum Message {  
     // 表示移动的消息，带有x和y坐标  
