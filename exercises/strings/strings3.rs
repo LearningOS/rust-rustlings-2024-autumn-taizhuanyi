@@ -17,7 +17,7 @@ fn replace_me(input: &str) -> String {
     input.replace("cars", "balloons")  
 }  
   
-#[cfg(test)]  
+#[cfg(test)]
 mod tests {  
     use super::*;  
   
